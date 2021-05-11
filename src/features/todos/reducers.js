@@ -1,7 +1,7 @@
 import types from './types';
 
 const INITIAL_STATE = [
-    { id: 0, text: 'Learn React', completed: true },
+    { id: 0, text: 'Learn React', completed: false },
     { id: 1, text: 'Learn Redux', completed: false, color: 'purple' },
     { id: 2, text: 'Build something fun!', completed: false, color: 'blue' },
 ]
